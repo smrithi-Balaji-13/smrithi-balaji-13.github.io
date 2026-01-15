@@ -26,7 +26,7 @@ function handleSubmit(event) {
     const message = formData.get('message');
     
     // Create mailto link
-    const recipientEmail = 'smrithibalaji13@yahoo.com';
+    const recipientEmail = 'smrithi.balaji@yahoo.com';
     const mailtoLink = `mailto:${recipientEmail}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\nMessage:\n${message}`)}`;
     
     // Open email client
