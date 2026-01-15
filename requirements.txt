@@ -1,0 +1,62 @@
+# Smrithi Balaji Professional Website - Requirements
+
+## Project Requirements
+
+### Core Technologies
+- HTML5 (No version requirement - standard HTML5)
+- CSS3 (No version requirement - standard CSS3)
+- JavaScript (ES6+ compatible)
+- Web Browser (Chrome, Firefox, Safari, Edge, or Opera)
+
+### External Dependencies
+- Google Fonts API (Inter font family)
+  - Loaded via CDN: https://fonts.googleapis.com/css2?family=Inter
+  - No installation required
+
+### File Requirements
+- index.html (Main HTML file)
+- styles.css (Stylesheet)
+- script.js (JavaScript file)
+- profile.jpeg (Profile image - must be in same directory)
+
+### System Requirements
+- Modern web browser with JavaScript enabled
+- Internet connection (for Google Fonts - optional, will fallback to system fonts if offline)
+
+### Optional Development Tools
+- Python 3.x (for local development server)
+  - Command: `python3 -m http.server 8000`
+- Text editor or IDE (for customization)
+- Git (for version control - optional)
+
+### No Additional Dependencies Required
+This is a static website with no:
+- Package managers (npm, yarn, etc.)
+- Build tools
+- Frameworks or libraries
+- Backend servers
+- Database requirements
+
+### Browser Features Used
+- CSS Grid
+- CSS Flexbox
+- CSS Variables
+- ES6 JavaScript
+- Intersection Observer API (for animations)
+- Smooth scrolling
+
+### Network Requirements
+- Internet connection recommended for Google Fonts
+- Works offline if fonts are cached or if you prefer to use local fonts
+
+---
+
+## Quick Start
+
+1. Ensure all files are in the same directory
+2. Open `index.html` in a web browser
+3. No installation or setup required!
+
+---
+
+**Note**: This is a client-side only website. No server-side requirements or dependencies.
